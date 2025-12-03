@@ -64,7 +64,7 @@ A professional-grade calculator application available in three distinct versions
 
 ## Live Demo
 
-Try PWA version: [Live Demo](https://andmitr.github.io/web-pwa-electron-app/)
+Try PWA version: [Live Demo](https://andmitr.github.io/cross-platform-app/)
 
 **Screenshots:**
 
